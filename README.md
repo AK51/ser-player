@@ -1,4 +1,5 @@
-# SER File Viewer
+# SER File Viewer (AVI also) and stacking
+<img width="1278" height="601" alt="ser_main" src="https://github.com/user-attachments/assets/d6d7090f-8a32-4f36-a24c-b4c118415ad9" />
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -280,3 +281,4 @@ Created by Andy Kong for the astronomical imaging community.
 - [SER Format Specification](https://free-astro.org/index.php?title=SER)
 - [Siril](https://siril.readthedocs.io/) for SER format documentation
 - The astronomical imaging community for feedback and testing
+
